@@ -1,0 +1,66 @@
+{
+  "echoer_ambient_loop": {
+    "sounds": [
+      {
+        "name": "nightterror:echoer_ambient_loop",
+        "stream": true
+      }
+    ]
+  },
+  "echoer_spawn_swirl": {
+    "sounds": [
+      {
+        "name": "nightterror:echoer_spawn_swirl"
+      }
+    ]
+  },
+  "echoer_spawn_scream": {
+    "sounds": [
+      {
+        "name": "nightterror:echoer_spawn_scream"
+      }
+    ]
+  },
+  "echoer_idle_whisper": {
+    "sounds": [
+      {
+        "name": "nightterror:echoer_idle_whisper"
+      }
+    ]
+  },
+  "echoer_attack_screech": {
+    "sounds": [
+      {
+        "name": "nightterror:echoer_attack_screech"
+      }
+    ]
+  },
+  "echoer_disappear_pop": {
+    "sounds": [
+      {
+        "name": "nightterror:echoer_disappear_pop"
+      }
+    ]
+  },
+  "echo_fragment_pickup": {
+    "sounds": [
+      {
+        "name": "nightterror:echo_fragment_pickup"
+      }
+    ]
+  },
+  "halving_voice_line": {
+    "sounds": [
+      {
+        "name": "nightterror:halving_voice_line"
+      }
+    ]
+  },
+  "echoer_world_pulse": {
+    "sounds": [
+      {
+        "name": "nightterror:echoer_world_pulse"
+      }
+    ]
+  }
+}

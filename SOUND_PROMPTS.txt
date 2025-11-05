@@ -1,0 +1,9 @@
+echoer_ambient_loop: Low, continuous rumbling drone with distant metallic resonance, seamless loop, 3 seconds.
+echoer_spawn_swirl: Rising burst of wind and reversed breath textures ending in a soft whoosh, <1 second.
+echoer_spawn_scream: Distorted shriek layered with metallic scrape, fast attack and short decay, 0.8 seconds.
+echoer_idle_whisper: Whispered consonants with faint air hiss, randomized stereo, 1.5 seconds.
+echoer_attack_screech: Sharp dual-tone screech with slight pitch bend upward, 0.6 seconds.
+echoer_disappear_pop: Reverse swell into a muted pop with subtle shimmer tail, 0.4 seconds.
+echo_fragment_pickup: Soft crystalline pluck followed by airy chime, 0.5 seconds.
+halving_voice_line: Robotic monotone phrase with slight echo tail, 2.2 seconds.
+echoer_world_pulse: Slow throbbing pulse with sub-bass emphasis and faint reverb, 1.4 seconds.
