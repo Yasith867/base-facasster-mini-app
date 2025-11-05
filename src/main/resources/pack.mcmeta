@@ -1,8 +1,6 @@
 {
   "pack": {
-    "description": {
-      "text": "NightTerror placeholder resources"
-    },
-    "pack_format": 15
+    "description": "NightTerror placeholder resources",
+    "pack_format": 17
   }
 }
